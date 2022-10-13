@@ -1,1 +1,1 @@
-<img src="https://github.com/friday-deployer/friday-deployer/blob/main/temp_meme1.png?raw=true">
+<img src="https://img.shields.io/badge/Laravel-orange?logo=laravel&logoColor=white&labelColor=gray" /> 
